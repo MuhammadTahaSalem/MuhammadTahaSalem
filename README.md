@@ -13,9 +13,17 @@ I'm a passionate Front-End Developer from Egypt .
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white )
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white )
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black )
+![SASS Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg )
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white )
+![TypeScript Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg )
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black )
+![jQuery Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg )
+![SQL Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/azuresqldatabase/azuresqldatabase-original.svg )
+![Bootstrap Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg )
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white )
+![Jira Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg )
+![Trello Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg )
+
 
 ---
 
