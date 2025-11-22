@@ -4,8 +4,8 @@ I'm a passionate Front-End Developer from Egypt .
 
 - 🔭 I’m currently working on Resala platform 
 - 🌱 I’m currently learning React framework , TailwindCSS and Linux OS.
-- 👯 I’m looking to collaborate on  E-commerce platforms or complex systems to develop my self.
-- 🤔 I’m looking for help with full time job on front end development .
+- 👯 I’m looking to collaborate on E-commerce platforms or complex systems to gain hands-on experience and enhance my skills.
+- 👨‍💻 Open to new opportunities in Front-End Development.
 - 📫 How to reach me : mtaha7017@gmail.com
 - LinkedIn : https://www.linkedin.com/in/muhammad-taha-salem-88b44a132
 
