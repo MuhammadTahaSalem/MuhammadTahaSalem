@@ -28,14 +28,3 @@ I'm a passionate Front-End Developer from Egypt .
 
 
 
----
-
-### 📊 My GitHub Stats
-
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuhammadTahaSalem&show_icons=true&theme=radical&include_all_commits=true )](https://github.com/MuhammadTahaSalem )
-
-
-
-<!-- 
-**ملاحظة:** استبدل YOUR_USERNAME باسم المستخدم الخاص بك في رابط الإحصائيات أعلاه.
--->
